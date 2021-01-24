@@ -23,7 +23,7 @@
     <span class="input-group-text cyan lighten-2" id="basic-text1"><i class="fas fa-search text-white"
         aria-hidden="true"></i></span>
   </div>
-  <input class="form-control my-0 py-1" type="text" placeholder="Search for a person, topic, skill, service" aria-label="Search">
+  <input ="form-control my-0 py-1" type="text" placeholder="Search for a person, topic, skill, service" aria-label="Search">
 </div>
 
 
